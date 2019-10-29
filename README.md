@@ -22,11 +22,9 @@ python manage.py runserver
 
 # Foodspark
 
-![logo](front-end/img/logo.ico)
 
 RDBMS project for online Food Ordering system.
 
-![Screenshot](Screenshot.png)
 
 The frontend specifically can be found in `front-end/` folder.
 
